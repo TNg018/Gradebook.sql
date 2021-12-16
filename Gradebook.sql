@@ -1,5 +1,5 @@
 /* 
-* Intro to Databases 
+* Database Management 
 * Gradebook program in sql
 * MySQL Workbench
 */
